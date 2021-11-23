@@ -1,8 +1,9 @@
 part_number,alert_quantity,enable/disable_alert,note
-ADS1298IPAG,100,enable,@Sample note
+ADS1298IPAG,100,enable,Sample note
 BQ24296RGET,500,enable,
 BQ24296RGER,500,enable,
+TPD1E10B09DPYR,1000,enable,Sample note2
 BQ27441DRZT-G1A,100,enable,
 BQ27441DRZR-G1A,100,enable,
-TPD1E10B09DPYR,1000,enable,@Sample note2
 TPD1E10B09DPYT,1000,disable,
+
